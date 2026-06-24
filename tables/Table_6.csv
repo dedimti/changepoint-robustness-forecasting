@@ -1,0 +1,6 @@
+Method,MAE,MAE_cp,MAE_normal,ρ
+"ARIMA(1,1,1)",0.987,1.331,0.731,1.820
+Seasonal-naïve,1.139,1.393,0.950,1.466
+Naïve,0.946,1.306,0.678,1.927
+LSTM baseline,0.972,1.116,0.865,1.290
+LSTM + local-shift + τ (proposed),0.930,1.085,0.815,1.332

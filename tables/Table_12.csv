@@ -1,0 +1,3 @@
+Metric,Baseline,LSTM + local-shift + τ (proposed)
+MAE_cp,1.117 ± 0.009,1.085 ± 0.007
+MAE (all),0.980 ± 0.009,0.932 ± 0.008

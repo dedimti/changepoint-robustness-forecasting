@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or its findings, please cite the paper below."
+title: "Changepoint Robustness Forecasting"
+authors:
+  - family-names: Irawan
+    given-names: Dedi
+    orcid: "https://orcid.org/0009-0007-4973-926X"
+    affiliation: "Faculty of Computer Science, Muhammadiyah University of Metro"
+  - family-names: Sudarmaji
+    orcid: "https://orcid.org/0000-0001-5549-4886"
+    affiliation: "Faculty of Computer Science, Muhammadiyah University of Metro"
+  - family-names: Samsudin
+    given-names: Imam
+    orcid: "https://orcid.org/0009-0006-2482-4209"
+    affiliation: "Faculty of Computer Science, Muhammadiyah University of Metro"
+license: MIT
+repository-code: "https://github.com/<your-username>/changepoint-robustness-forecasting"
+preferred-citation:
+  type: article
+  title: "A Changepoint Robustness Metric and Causal Regime-Shift Knowledge Injection for Reliable Demand Forecasting under Structural Change"
+  authors:
+    - family-names: Irawan
+      given-names: Dedi
+    - family-names: Sudarmaji
+    - family-names: Samsudin
+      given-names: Imam
+  journal: "Knowledge-Based Systems"
+  publisher:
+    name: "Elsevier"
+  year: 2025
+  notes: "Submitted"

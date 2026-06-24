@@ -1,0 +1,5 @@
+Configuration,MAE,ρ,MAE_cp,MAE_normal
+Baseline (value only),0.972,1.290,1.116,0.865
++ time-since-changepoint only,0.973,1.295,1.119,0.864
++ local-shift only,0.932,1.337,1.089,0.815
++ both,0.930,1.332,1.085,0.815

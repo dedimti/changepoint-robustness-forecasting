@@ -1,0 +1,4 @@
+Check,MAE_cp: baseline → proposed,DM,Interpretation
+Different seed (777),1.106 → 1.076,+21.4,Reproducible across samples
+Wider neighbourhood (w = 2),1.040 → 1.005,+31.7,Not an artefact of w
+Low-changepoint control,3.854 → 3.829,+2.3,Non-harmful on stable series

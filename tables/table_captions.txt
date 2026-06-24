@@ -1,0 +1,15 @@
+Table 1. Input variables of the proposed model.
+Table 2. Dataset summary.
+Table 3. Hyperparameter settings.
+Table 4. Effect of the changepoint-aware weighted loss (per-window
+Table 5. Feature ablation; significance versus the plain baseline.
+Table 6. Baseline comparison on 5,000 series (20,000 test windows; the
+Table 7. Robustness checks (critical-region MAE, baseline → proposed).
+Table 8. Effect of horizon H (L = 12) and lookback L (H = 4) on
+Table 9. Comparison with a modern decomposition-linear baseline (5,000
+Table 10. Mechanism comparison on 5,000 series (in-domain). The
+Table 11. Cross-domain transfer: train on FFSU, test on MCOU (5,000
+Table 12. Stability across five random seeds (mean ± standard
+Table 13. Comparison with state-of-the-art forecasters (5,000 series;
+Table 14. Local-shift ablation inside iTransformer (5,000 series).
+Table 15. Cross-dataset validation on M5 (1,000 changepoint-heavy

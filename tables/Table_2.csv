@@ -1,0 +1,11 @@
+Property,Value
+Source,US Medicaid State Drug Utilization Data (CMS)
+Period,2014Q1 – 2019Q4 (24 quarters)
+Raw records,≈ 28.3 million
+Geographic coverage,50 states + DC + national aggregate
+Utilization types,"Fee-for-service (FFSU), managed-care (MCOU)"
+Series definition,utilization type × state × NDC
+Demand signal,Units Reimbursed
+Unique series (total),"2,730,862"
+Series with 24 full quarters (mean ≥ 2),"168,987"
+Series with ≥ 3 changepoints,"50,375"

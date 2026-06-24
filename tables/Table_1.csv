@@ -1,0 +1,4 @@
+Variable,Definition,Causal?
+y_t,Standardized demand (units reimbursed) at quarter t,Yes
+s_t,Local-shift: mean(y_{t-2:t}) − mean(y_{t-5:t-3}),Yes
+τ_t,Normalized time since last PELT changepoint on prefix y_{1:t} (optional),Yes

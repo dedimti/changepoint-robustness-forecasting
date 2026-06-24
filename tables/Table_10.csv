@@ -1,0 +1,5 @@
+Mechanism,MAE,MAE_cp,MAE_normal
+Plain LSTM (baseline),0.972,1.116,0.865
+LSTM + local-shift only,0.932,1.089,0.815
+LSTM + local-shift + τ (proposed),0.930,1.085,0.815
+Gated regime-switching LSTM,0.929,1.084,0.812

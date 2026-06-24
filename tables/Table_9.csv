@@ -1,0 +1,5 @@
+Method,MAE,MAE_cp,MAE_normal,ρ
+"ARIMA(1,1,1)",0.987,1.331,0.731,1.820
+DLinear,0.958,1.104,0.849,1.300
+LSTM baseline,0.972,1.116,0.865,1.290
+LSTM + local-shift + τ (proposed),0.930,1.085,0.815,1.332

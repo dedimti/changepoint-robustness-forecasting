@@ -1,0 +1,15 @@
+Hyperparameter,Value
+Lookback length L,12 quarters
+Forecast horizon H,4 quarters
+LSTM layers,1
+Hidden size,32
+Optimizer,Adam
+Learning rate,1×10⁻²
+Epochs,40
+Training scheme,global (across all series)
+Standardization,per-series z-score (train statistics only)
+PELT cost / penalty,l2 / β = 2.0
+Critical half-width w,1 quarter
+λ values explored,"{1, 5, 10, 20, 50}"
+Main subset size,"5,000 series (≥ 3 changepoints)"
+Random seed (main),2024

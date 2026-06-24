@@ -1,0 +1,4 @@
+Mechanism,MAE_cp (FFSU→MCOU),MAE (all)
+Plain LSTM (baseline),1.100,0.953
+LSTM + local-shift only,1.070,0.911
+Gated regime-switching LSTM,1.068,0.908

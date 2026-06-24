@@ -1,0 +1,7 @@
+Model,Params,MAE,MAE_cp,MAE_normal,ρ
+DLinear,~0.1K,0.958,1.104,0.849,1.300
+LSTM baseline,~4.5K,0.972,1.116,0.865,1.290
+LSTM + local-shift + τ (proposed),~4.6K,0.930,1.085,0.815,1.332
+Gated regime LSTM,~4.8K,0.929,1.084,0.812,1.330
+PatchTST,~68K,0.931,1.079,0.820,1.315
+iTransformer,~68K,0.918,1.068,0.806,1.324

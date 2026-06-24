@@ -1,0 +1,4 @@
+iTransformer variant,Params,MAE,MAE_cp,MAE_normal
+Value-only,"68,036",0.930,1.081,—
++ local-shift,"68,292",0.918,1.068,—
++ local-shift + regime gate,"68,938",0.923,1.072,—
