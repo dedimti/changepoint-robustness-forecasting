@@ -1,5 +1,8 @@
 # Changepoint Robustness Forecasting
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20837126.svg)](https://doi.org/10.5281/zenodo.20837126)
+
+
 Companion repository for the paper:
 
 > **A Changepoint Robustness Metric and Causal Regime-Shift Knowledge Injection for Reliable Demand Forecasting under Structural Change**
@@ -166,6 +169,8 @@ s_t = mean(y[t-2 : t+1]) - mean(y[t-5 : t-2])
 
 ## Citation
 
+**Archived release (Zenodo):** https://doi.org/10.5281/zenodo.20837126
+
 If you use this code, metric, or findings, please cite the paper (see `CITATION.cff`).
 
 ```bibtex
@@ -174,7 +179,7 @@ If you use this code, metric, or findings, please cite the paper (see `CITATION.
              Injection for Reliable Demand Forecasting under Structural Change},
   author  = {Irawan, Dedi and Sudarmaji and Samsudin, Imam},
   journal = {Knowledge-Based Systems},
-  note    = {Submitted},
+  note    = {Submitted; code archived at https://doi.org/10.5281/zenodo.20837126},
   year    = {2025}
 }
 ```
